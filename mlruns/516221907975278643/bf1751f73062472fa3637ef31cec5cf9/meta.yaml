@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/UNAL/Productos_de_datos/PRE-07-mlflow-tracking-basico-LissyGraceRestrepo/mlruns/516221907975278643/bf1751f73062472fa3637ef31cec5cf9/artifacts
+end_time: 1765068894185
+entry_point_name: ''
+experiment_id: '516221907975278643'
+lifecycle_stage: active
+run_id: bf1751f73062472fa3637ef31cec5cf9
+run_name: elasticnet_4739663c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765068876555
+status: 3
+tags: []
+user_id: valen

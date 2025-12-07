@@ -1,0 +1,10 @@
+artifact_location: file:///C:/UNAL/Productos_de_datos/PRE-07-mlflow-tracking-basico-LissyGraceRestrepo/mlruns/516221907975278643/models/m-5374a5db53cc4dbbb1ae574ec1e6bb5a/artifacts
+creation_timestamp: 1765068904540
+experiment_id: '516221907975278643'
+last_updated_timestamp: 1765068926654
+model_id: m-5374a5db53cc4dbbb1ae574ec1e6bb5a
+model_type: null
+name: model
+source_run_id: 370084186acf42c1ba19ea7f3f2ff468
+status: 2
+status_message: null
